@@ -1,2 +1,3 @@
 # Ecommerce-analysis
-E-commerce sales analysis using Python and MySQL
+E-commerce sales EDA using Python,
+Pandas, Matplotlib and Seaborn
